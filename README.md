@@ -1,1 +1,1 @@
-#Project for practicing Git skills!
+# Project for practicing Git skills!
