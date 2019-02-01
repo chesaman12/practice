@@ -6,6 +6,6 @@ public class Practice {
 	}
 	
 	private static String someRandomMethod() {
-		return "\nnate_branch is an ape";
+		return "\nnate_branch is not an ape";
 	}
 }
